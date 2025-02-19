@@ -1,4 +1,5 @@
-📚 DynamicsLab Jupyter: Learn Structural Vibrations Through Interactive Play
+📚 DynamicsLab Jupyter: Learn Structural Vibrations Through Interactive Play:
+
 An open educational resource (OER) for exploring MDOF systems in mechanical/civil engineering:
 
   * 🖱️ Drag-and-drop setup of lumped-mass models
