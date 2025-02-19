@@ -26,4 +26,6 @@ Designed to bridge theory and computation in vibration analysis courses.
 
 Credits: Ivan Bajić, univ. bacc. ing. mech.
 
-Cite: 
+Cite as: Bajić, I., & Dogančić, B. (2025). bruno-dogancic/DynamicsLAB-Jupyter: DynamicsLAB-Jupyter_v0.1. Zenodo. https://doi.org/10.5281/zenodo.14891714
+
+Licensed by MIT License.
