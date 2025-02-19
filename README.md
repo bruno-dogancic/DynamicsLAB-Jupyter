@@ -23,3 +23,7 @@ An open educational resource (OER) for exploring MDOF systems in mechanical/civi
   * 🎓 Academic use cases: Seismic response, rotating machinery, structural dynamics
 
 Designed to bridge theory and computation in vibration analysis courses.
+
+Credits: Ivan Bajić, univ. bacc. ing. mech.
+
+Cite: 
